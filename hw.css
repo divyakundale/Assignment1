@@ -1,0 +1,60 @@
+
+
+  
+body{
+background-color:rgba(255, 255, 204,0.3);
+
+}
+
+h1{
+
+  color: navy;
+
+}
+
+h2{
+
+color:rgb(102, 0, 51)
+}
+
+
+
+.header img {
+float: left;
+width: 100px;
+height: 100px;
+padding:5px;
+  
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+h1{
+border:1px ;
+//background-color:rgb(179, 204, 255);
+padding:20px;
+}
+.nav a{
+padding:5px;
+color: #fff;
+}
+p  {
+width:85%;
+font-size:110%;
+
+}
+h3{
+font-size:130%;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
